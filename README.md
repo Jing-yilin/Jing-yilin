@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jing-yilin
-- 👀 I’m interested in Python, Java, C, Html, CSS, js, wx, git.
-- 🌱 I’m currently learning Python, Java, C, Html, CSS, js, wx, git.
+- 👋 Hi, I’m @Jing-yilin.
+- 👀 I’m an AI major university student.
+- 🌱 I’m currently learning Python, Java, AI.
 - 💞️ I’m looking to collaborate on Python, Java, C, Html, CSS, js, wx, git.
-- 📫 How to reach me ...
+- 📫 You can reach me by yj220@sussex.ac.uk .
 
 <!---
 Jing-yilin/Jing-yilin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
