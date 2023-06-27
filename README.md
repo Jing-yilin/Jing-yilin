@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jing-yilin.
 - 👀 I’m an AI major university student.
-- 🌱 I’m currently learning Python, Java, AI.
+- 🌱 I’m currently focus on deep learning and data science.
 - 💞️ I’m looking to collaborate on Python, Java, C, Html, CSS, js, wx, git.
 - 📫 You can reach me by yj220@sussex.ac.uk .
 
