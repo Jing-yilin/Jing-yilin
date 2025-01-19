@@ -6,6 +6,7 @@
 
 </div>
 
+
 ## 🧠 About Me
 
 > *"Building AI systems that are both powerful and responsible"*
@@ -26,6 +27,7 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 | 📚 Research Publications | 3+ |
 
 </div>
+
 ## 🔮 Featured Projects
 
 <table>
@@ -111,5 +113,13 @@ University of Sussex
 *"Committed to developing AI that empowers humanity while ensuring safety and ethical considerations"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jing-yilin&color=brightgreen)
+
+<p align="center">
+  ☕ Buy me a coffee if you like my work!
+  <br>
+  <a href="https://buymeacoffee.com/zarek" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
 
 </div>
