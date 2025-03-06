@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zarek (Yilin Jing)! 
+# 👋 Hi there, I'm Yilin Jing! 
 
 <div align="center">
   
@@ -6,6 +6,7 @@
 
 </div>
 
+---
 
 ## 🧠 About Me
 
@@ -15,18 +16,11 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 - Co-founder at [Pagepeek](https://pagepeek.ai) - Revolutionizing web interactions with AI
 - Founder & CEO at WISUP Technology - Creating enterprise-ready AI solutions
 
-## 🎯 Impact & Numbers
 
-<div align="center">
-
-| Metric | Count |
-|--------|--------|
-| 👥 Users Impacted | 10,000+ |
-| ⭐ Total GitHub Stars | 1.4k+ |
-| 🛠️ Open Source Projects | 15+ |
-| 📚 Research Publications | 3+ |
 
 </div>
+
+---
 
 ## 🔮 Featured Projects
 
@@ -35,7 +29,7 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 <td width="50%">
 <h3 align="center">E2M - Enterprise Document Converter</h3>
 <div align="center">
-<a href="https://github.com/wisupai/e2m" target="_blank"><img src="https://avatars.githubusercontent.com/u/177441637?s=200&v=4" width="80" alt="E2M Demo"></a>
+<a href="https://github.com/wisupai/e2m" target="_blank"><img src="https://avatars.githubusercontent.com/u/177441637?s=200&v=4" width="100" alt="E2M Demo"></a>
 <p>
 <a href="https://github.com/wisupai/e2m" target="_blank">
 <img src="https://img.shields.io/badge/-Code-000000?style=flat-square&logo=github&logoColor=white">
@@ -64,6 +58,8 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -81,12 +77,16 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 
 </div>
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jing-yilin&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jing-yilin&layout=compact&theme=tokyonight"/>
 </div>
+
+---
 
 ## 🎓 Academic Background
 
@@ -102,13 +102,21 @@ University of Sussex
 
 </div>
 
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![Personal Website](https://img.shields.io/badge/🌐_Website-jing10.top-blue?style=for-the-badge)](https://jing10.top)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yilin-jing-346903273)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x)](https://x.com/MrXXXZZZ666)
+[![Bilibili](https://img.shields.io/badge/Bilibili-关注-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/22831986)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yilin.jing.ai@outlook.com)
+
+### 📱 WeChat
+<img src="WeChat.jpg" alt="WeChat QR Code" width="200"/>
+<p>扫一扫上面的二维码图案，加我为朋友。</p>
 
 *"Committed to developing AI that empowers humanity while ensuring safety and ethical considerations"*
 
