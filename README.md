@@ -109,6 +109,7 @@ University of Sussex
 <div align="center">
 
 [![Personal Website](https://img.shields.io/badge/🌐_Website-jing10.top-blue?style=for-the-badge)](https://jing10.top)
+[![Resume](https://img.shields.io/badge/📄_Resume-View-green?style=for-the-badge&logo=adobe)](https://github.com/Jing-yilin/Resume/blob/master/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yilin-jing-346903273)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x)](https://x.com/MrXXXZZZ666)
 [![Bilibili](https://img.shields.io/badge/Bilibili-关注-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/22831986)
@@ -117,6 +118,10 @@ University of Sussex
 ### 📱 WeChat
 <img src="WeChat.jpg" alt="WeChat QR Code" width="200"/>
 <p>扫一扫上面的二维码图案，加我为朋友。</p>
+
+### 📱 WhatsApp
+<img src="WhatsApp.png" alt="WhatsApp QR Code" width="200"/>
+<p>Scan the QR code above to connect with me on WhatsApp.</p>
 
 *"Committed to developing AI that empowers humanity while ensuring safety and ethical considerations"*
 
