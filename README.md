@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+%7C+LLM+Researcher;Building+the+future+with+AI+%F0%9F%9A%80;Pushing+boundaries+in+AI+Safety+%F0%9F%9B%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+Technology+Researcher;Building+innovative+solutions+%F0%9F%9A%80;Pushing+boundaries+in+technology+%F0%9F%9B%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,15 +10,9 @@
 
 ## 🧠 About Me
 
-> *"Building AI systems that are both powerful and responsible"*
+> *"Building technology systems that are both powerful and responsible"*
 
-I'm passionate about advancing AI technology through innovative solutions in large language models, AI safety, and ethical computing. Currently, I serve as:
-- Co-founder at [Pagepeek](https://pagepeek.ai) - Revolutionizing web interactions with AI
-- Founder & CEO at WISUP Technology - Creating enterprise-ready AI solutions
-
-
-
-</div>
+I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. 
 
 ---
 
@@ -38,8 +32,8 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 <img src="https://img.shields.io/badge/-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white">
 </a>
 </p>
-<p><strong>Document Conversion Reimagined with AI</strong> - 1000+ ⭐️</p>
-<p>Transform any file format to Markdown using state-of-the-art LLMs</p>
+<p><strong>Document Conversion Reimagined</strong> - 1000+ ⭐️</p>
+<p>Transform any file format to Markdown using state-of-the-art technology</p>
 </div>
 </td>
 <td width="50%">
@@ -52,7 +46,7 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 </a>
 </p>
 <p><strong>Next-Generation Web Interaction Platform</strong></p>
-<p>Transforming how users interact with web content through advanced AI technology</p>
+<p>Transforming how users interact with web content through advanced technology</p>
 </div>
 </td>
 </tr>
@@ -69,11 +63,11 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Proficient-0076A8?style=for-the-badge&logo=mathworks)
 
-### AI/ML Ecosystem
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow)
-![Hugging Face](https://img.shields.io/badge/🤗_Transformers-Expert-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-32CD32?style=for-the-badge)
+### Software Development Ecosystem
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Proficient-232F3E?style=for-the-badge&logo=amazonaws)
 
 </div>
 
@@ -94,11 +88,11 @@ I'm passionate about advancing AI technology through innovative solutions in lar
 
 🎓 **MSc in Applied Computational Science and Engineering**  
 Imperial College London
-> Research: LLM Safety & Interpretability
+> Research: Computational Methods & Algorithms
 
 🎓 **First-Class Honours in Communications Engineering**  
 University of Sussex
-> Focus: Signal Processing & Machine Learning
+> Focus: Signal Processing & Software Development
 
 </div>
 
@@ -108,9 +102,6 @@ University of Sussex
 
 <div align="center">
 
-[![Personal Website](https://img.shields.io/badge/🌐_Website-jing10.top-blue?style=for-the-badge)](https://jing10.top)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-green?style=for-the-badge&logo=adobe)](https://github.com/Jing-yilin/Resume/blob/master/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yilin-jing-346903273)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x)](https://x.com/MrXXXZZZ666)
 [![Bilibili](https://img.shields.io/badge/Bilibili-关注-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/22831986)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yilin.jing.ai@outlook.com)
@@ -123,7 +114,7 @@ University of Sussex
 <img src="WhatsApp.png" alt="WhatsApp QR Code" width="200"/>
 <p>Scan the QR code above to connect with me on WhatsApp.</p>
 
-*"Committed to developing AI that empowers humanity while ensuring safety and ethical considerations"*
+*"Committed to developing technology that empowers people while ensuring ethical considerations"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jing-yilin&color=brightgreen)
 
