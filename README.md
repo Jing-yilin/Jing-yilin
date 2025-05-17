@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Yilin Jing! 
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+Technology+Researcher;Building+innovative+solutions+%F0%9F%9A%80;Pushing+boundaries+in+technology+%F0%9F%9B%A1)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+Technology+Researcher;Building+innovative+solutions+%F0%9F%9A%80;Pushing+boundaries+in+technology+%F0%9F%9B%A1;Creator+of+AI+Scientist+Agents+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,27 @@
 
 > *"Building technology systems that are both powerful and responsible"*
 
-I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. 
+I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. Currently focused on making scientific research more accessible through AI-powered platforms.
+
+---
+
+## 🚀 Current Project
+
+<div align="center">
+  <a href="https://resciencelab.ai" target="_blank">
+    <img width="1434" alt="image" src="https://github.com/user-attachments/assets/3bba98f2-6842-45a2-a1b5-e2c654819967" />
+  </a>
+  <h3>Rescience Lab - Next Generation AI research lab</h3>
+  <p><strong>Revolutionizing Scientific Research 🧪</strong></p>
+  <p>A platform that combines cutting-edge AI with intuitive design to make scientific research more accessible and reproducible.</p>
+
+  <p>
+    <a href="https://resciencelab.ai" target="_blank">
+      <img src="https://img.shields.io/badge/-Website-0077B5?style=flat-square&logo=safari&logoColor=white">
+    </a>
+  </p>
+</div>
+
 
 ---
 
@@ -66,8 +86,14 @@ I'm passionate about advancing technology through innovative solutions in softwa
 ### Software Development Ecosystem
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-Proficient-232F3E?style=for-the-badge&logo=amazonaws)
+
+### AI & Scientific Computing
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Proficient-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?style=for-the-badge&logo=jupyter)
 
 </div>
 
