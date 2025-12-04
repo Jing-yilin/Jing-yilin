@@ -16,18 +16,18 @@ I'm passionate about advancing technology through innovative solutions in softwa
 
 ---
 
-## 🚀 Current Project
+## 🚀 Founder of ReScience Lab
 
 <div align="center">
-  <a href="https://resciencelab.ai" target="_blank">
-    <img width="1434" alt="image" src="https://github.com/user-attachments/assets/3bba98f2-6842-45a2-a1b5-e2c654819967" />
+  <a href="https://rescience.com" target="_blank">
+    <img src="ReScience Lab Logo.png" alt="ReScience Lab" width="500" />
   </a>
-  <h3>Rescience Lab - Next Generation AI research lab</h3>
-  <p><strong>Revolutionizing Scientific Research 🧪</strong></p>
-  <p>A platform that combines cutting-edge AI with intuitive design to make scientific research more accessible and reproducible.</p>
+  <h3>ReScience Lab - Next Generation AI Research Lab</h3>
+  <p><strong>Building the Future of Scientific Research</strong></p>
+  <p>As the founder of ReScience Lab, I'm leading the development of AI-powered tools that revolutionize how researchers work.</p>
 
   <p>
-    <a href="https://resciencelab.ai" target="_blank">
+    <a href="https://rescience.com" target="_blank">
       <img src="https://img.shields.io/badge/-Website-0077B5?style=flat-square&logo=safari&logoColor=white">
     </a>
   </p>
