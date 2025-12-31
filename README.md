@@ -1,18 +1,8 @@
 # 👋 Hi there, I'm Yilin Jing! 
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%7C+Technology+Researcher;Building+innovative+solutions+%F0%9F%9A%80;Pushing+boundaries+in+technology+%F0%9F%9B%A1;Creator+of+AI+Scientist+Agents+%F0%9F%A7%AA)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 🧠 About Me
 
-> *"Building technology systems that are both powerful and responsible"*
-
-I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. Currently focused on making scientific research more accessible through AI-powered platforms.
+I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. Currently focused on building full-stack toolchains for OPC (One Person Company).
 
 ---
 
@@ -22,9 +12,34 @@ I'm passionate about advancing technology through innovative solutions in softwa
   <a href="https://rescience.com" target="_blank">
     <img src="ReScience Lab Logo.png" alt="ReScience Lab" width="500" />
   </a>
-  <h3>ReScience Lab - Next Generation AI Research Lab</h3>
-  <p><strong>Building the Future of Scientific Research</strong></p>
-  <p>As the founder of ReScience Lab, I'm leading the development of AI-powered tools that revolutionize how researchers work.</p>
+  <h3>ReScience Lab - Full-Stack Toolchain for OPC</h3>
+  <p><strong>Building Rapid Product Development Infrastructure</strong></p>
+  <p>As the founder of ReScience Lab, I'm building a complete full-stack toolchain for One Person Companies (OPC).</p>
+
+  <h4>🎯 Our Products</h4>
+  <a href="https://requesthunt.com" target="_blank">
+    <img src="requesthunt-banner.png" alt="RequestHunt" width="500" />
+  </a>
+  <p>
+    <a href="https://requesthunt.com" target="_blank">
+      <img src="https://img.shields.io/badge/-RequestHunt-FF6B6B?style=flat-square&logo=safari&logoColor=white">
+    </a>
+    <a href="https://markshare.to" target="_blank">
+      <img src="https://img.shields.io/badge/-MarkShare-4ECDC4?style=flat-square&logo=safari&logoColor=white">
+    </a>
+  </p>
+
+  <h4>⚡ Our Principles</h4>
+  <p align="left" style="max-width: 600px; margin: 0 auto;">
+    <strong>1️⃣ 3-Day Development Cycle</strong><br/>
+    Every product must complete core value delivery within 3 days
+    <br/><br/>
+    <strong>2️⃣ 30-Second Onboarding</strong><br/>
+    Users must be able to start using the product within 30 seconds
+    <br/><br/>
+    <strong>3️⃣ 7-Day Value Validation</strong><br/>
+    Product must validate value through user growth or revenue within 7 days
+  </p>
 
   <p>
     <a href="https://rescience.com" target="_blank">
@@ -99,11 +114,10 @@ I'm passionate about advancing technology through innovative solutions in softwa
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity Map
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jing-yilin&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jing-yilin&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jing-yilin&theme=tokyonight" alt="Activity Map"/>
 </div>
 
 ---
@@ -128,9 +142,10 @@ University of Sussex
 
 <div align="center">
 
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x)](https://x.com/MrXXXZZZ666)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x)](https://x.com/Yilin0x)
 [![Bilibili](https://img.shields.io/badge/Bilibili-关注-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/22831986)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yilin.jing.ai@outlook.com)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-关注-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/8br0a8JMoFw)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yilin.jing@rescience.com)
 
 ### 📱 WeChat
 <img src="WeChat.jpg" alt="WeChat QR Code" width="200"/>
