@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-I'm passionate about advancing technology through innovative solutions in software development, data engineering, and ethical computing. Currently focused on building full-stack toolchains for OPC (One Person Company).
+I'm passionate about software development, data engineering, and ethical computing. Currently focused on building full-stack toolchains for OPC (One Person Company).
 
 ---
 
